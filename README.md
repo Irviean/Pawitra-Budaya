@@ -1,16 +1,22 @@
-# pawitra_app
+# Pawitra Budaya 🎭
 
-A new Flutter project.
+Aplikasi Media Digital Interaktif berbasis mobile yang dirancang untuk mengedukasi masyarakat, khususnya generasi muda, mengenai kekayaan budaya Jawa.
 
-## Getting Started
+## 🌟 Fitur Utama
+- **Modul Edukasi:** Informasi mendalam mengenai warisan budaya Jawa.
+- **Kalender Weton:** Fitur interaktif untuk menghitung hari pasaran Jawa (Legi, Pahing, Pon, Wage, Kliwon).
+- **Kuis Interaktif:** Uji pemahaman budaya dengan sistem skor.
+- **Atmospheric Gending:** Musik latar instrumen Jawa untuk pengalaman yang imersif.
+- **Quotes API:** Kata bijak yang diperbarui secara otomatis setiap kali membuka profil.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi
+- **Framework:** Flutter
+- **Language:** Dart
+- **State Management:** StatefulWidget
+- **API:** Quotable API
+- **Packages:** `http`, `audioplayers`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Pengembang
+- **Nama:** Irviean Yoga Mahardika
+- **Prodi:** Teknologi Rekayasa Multimedia (TRM)
+- **Instansi:** Politeknik Negeri Media Kreatif
